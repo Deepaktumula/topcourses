@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/topcourses/static/css/main.2de5c2ab.css",
-    "main.js": "/topcourses/static/js/main.8fa211f8.js",
-    "index.html": "/topcourses/index.html",
-    "main.2de5c2ab.css.map": "/topcourses/static/css/main.2de5c2ab.css.map",
-    "main.8fa211f8.js.map": "/topcourses/static/js/main.8fa211f8.js.map"
+    "main.css": "/tours-travels/static/css/main.5e76f266.css",
+    "main.js": "/tours-travels/static/js/main.fec1d2f5.js",
+    "index.html": "/tours-travels/index.html",
+    "main.5e76f266.css.map": "/tours-travels/static/css/main.5e76f266.css.map",
+    "main.fec1d2f5.js.map": "/tours-travels/static/js/main.fec1d2f5.js.map"
   },
   "entrypoints": [
-    "static/css/main.2de5c2ab.css",
-    "static/js/main.8fa211f8.js"
+    "static/css/main.5e76f266.css",
+    "static/js/main.fec1d2f5.js"
   ]
 }
