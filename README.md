@@ -23,9 +23,9 @@ npm start
 
 ## Folder Structure
 src/
-components/: Contains React components used in the project.
-data.js: Contains the filterData array with objects representing course data.
-App.js: Main component that renders the navigation bar, course cards, and handles filter logic.
+components/: Contains React components used in the project.<br>
+data.js: Contains the filterData array with objects representing course data.<br>
+App.js: Main component that renders the navigation bar, course cards, and handles filter logic.<br>
 index.js: Entry point of the application.
 
 ## Usage
