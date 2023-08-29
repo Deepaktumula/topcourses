@@ -8,7 +8,7 @@ Uses Tailwind CSS for responsive and stylish UI.
 
 ## Getting Started
 1) Clone the repository:
-git clone https://github.com/your-username/top-courses-project.git
+https://github.com/Deepaktumula/topcourses.git
 
 2) Navigate to the project directory:
 cd top-courses-project
